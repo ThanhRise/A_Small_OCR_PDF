@@ -10,6 +10,10 @@ fitz
 ```
 
 - Run program
+``
+python pdf2text.py
+``
+
 
 ```
 usage: pdf_ocr.py [-h] -i INPUT_PATH [-a {Highlight,Redact}] [-s SEARCH_STR] [-p PAGES] [-g GENERATE_OUTPUT]
